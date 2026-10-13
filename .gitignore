@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment folders
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables, credentials, and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+credentials
+config
+
+# Pytest cache & test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary uploads and generated reports
+temp/
+temp_uploads/
+*.pdf
+*.json
+!metadata.json

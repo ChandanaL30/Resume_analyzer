@@ -1,0 +1,7 @@
+# Cloud-Based Resume Analyzer - Dependencies
+streamlit>=1.30.0
+PyMuPDF>=1.23.0
+plotly>=5.18.0
+boto3>=1.34.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
