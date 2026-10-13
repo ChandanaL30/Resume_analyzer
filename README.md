@@ -15,6 +15,17 @@ The project operates in **two distinct modes**:
 
 ---
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+Cloud-Based Resume Analyzer — Open App
+https://resume-analyzer-cloud.streamlit.app/
+
+The application analyzes PDF resumes and compares the skills identified in a resume against a job description to provide a keyword-based compatibility summary.
+
+---
+
 ## 🚀 Key Features
 - **In-Memory PDF Parsing:** Fast text and contact extraction using `PyMuPDF` (`fitz`).
 - **Keyword & Skill Matching:** Scans for 50+ technical competencies across Cloud Computing, DevOps, Programming Languages, and Databases.
